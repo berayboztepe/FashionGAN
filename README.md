@@ -1,4 +1,4 @@
-# FashionGAN
+# c-GANalyzer
 
 # Team Members
 1. Anuj Jhunjhunwala
