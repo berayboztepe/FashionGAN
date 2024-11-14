@@ -21,3 +21,5 @@
 - CelebA: https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
 
 ► The data consists of more than 200k images of celebrities with 40 different features.
+
+The Presentation for this project can be reached [here](https://github.com/berayboztepe/UWR_DataScience/blob/main/Neural%20Networks/Project/Neural%20Networks%20Project%20Presentation.pdf)
